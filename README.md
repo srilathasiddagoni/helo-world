@@ -1,1 +1,3 @@
-# helo-world
+# maven-project
+
+Simple Maven Project
